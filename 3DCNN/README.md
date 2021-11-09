@@ -1,4 +1,4 @@
-# PROJETO
+# PROJECT
 
 
 ## Crop_roi
@@ -13,7 +13,7 @@ Faz o recorte de falsos CT para treinamento de rede 3DCNN e salva em um arquivo 
 
 É possivel selecionar o tamanho dos recortes
 
-## visualization
+## Visualization
 
 Visualiza os CT rotulados
 
