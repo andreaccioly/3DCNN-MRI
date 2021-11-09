@@ -1,4 +1,4 @@
-# 3DCNN-MRI with SPP
+# Cerebral Microbleeds (CMB) Diagnostic on SWI-MRI using 3DCNN with SPP
 My Ph.D. dissertation code for Cerebral Microbleeds (CMB) diagnostic of 3D SWI-MRI using a  
 modified 3D-CNNs. This work is based on the work of Dou et al. (2016). 
 The goal is to improve the 3D CNN model implementing a Spatial Pyramid Pooling (SPP) model to overcome the 
